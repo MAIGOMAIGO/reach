@@ -1,0 +1,19 @@
+{
+  "name": "reach",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAIGOMAIGO/reach.git"
+  },
+  "author": "MAIGOMAIGO ozkoharu Takatomo0424 Tosiiaki saza-nami umijyi KusaReMKN",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MAIGOMAIGO/reach/issues"
+  },
+  "homepage": "https://github.com/MAIGOMAIGO/reach#readme"
+}
